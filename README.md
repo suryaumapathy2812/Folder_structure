@@ -25,7 +25,6 @@
 
     .
     ├── css                     # Compiled files 
-        ├── reset.css           # Compiled files 
         ├── normalize.css       # Compiled files 
         ├── style.css           # Compiled files 
         ├── header.css          # Compiled files 
